@@ -740,6 +740,7 @@ top: 0;
     -o-transition: all 300ms linear;
     -ms-transition: all 300ms linear;
     transition: all 300ms linear; 
+	color: aliceblue;
 }
 .list-social li:hover{
 }
@@ -2494,7 +2495,6 @@ html[xmlns] .slides {display: block;}
  .plans-offer-gold a,
  .plans-offer a {
 	position: relative;
-	font-family: 'Satisfy', cursive;
 	display: inline-block;
 	outline: none;
 	text-align:center;
@@ -2502,6 +2502,7 @@ html[xmlns] .slides {display: block;}
 	text-shadow: 0 0 1px rgba(255,255,255,0.3);
 	font-size: 18px;
 	margin-top:5px;
+	color: #8dadca;
 }
 .plans-offer-gold a:hover,
 .plans-offer-gold a:focus,
@@ -2816,10 +2817,6 @@ html[xmlns] .slides {display: block;}
 	z-index:6;
 	padding-right:10px;
 } 
-
-
-
-
 
 #google_map {
 	-webkit-filter: grayscale(90%);
