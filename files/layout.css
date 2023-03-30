@@ -754,7 +754,7 @@ top: 0;
 
 
 .just_pattern { 
-	background-image: url(../images/pattern.png); 
+	background-image: url(../icons/pattern.png); 
 	position: absolute; 
 	opacity: 0.8; 
 	left: 0px;
@@ -2812,7 +2812,7 @@ html[xmlns] .slides {display: block;}
 	font-family: 'FontAwesome'; 
 	font-size: 20px;
 	line-height: 20px;
-	text-align:center;
+	text-align:center; 
 	z-index:6;
 	padding-right:10px;
 } 
