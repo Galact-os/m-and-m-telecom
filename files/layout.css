@@ -465,7 +465,7 @@ ul.slimmenu {
 ul.slimmenu li {
     position: relative;
     display: inline-block;
-	background:url('../images/line.png') 0 14px no-repeat;
+	background:url('../icons/line.png') 0 14px no-repeat;
 	background-size:15px 10px;
 	padding-left:20px;
 }
