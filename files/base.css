@@ -50,7 +50,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #323232;
+		background: #fff;
 		font-family: 'OpenSans-Light-webfont';
 		font-size: 14px;
 		line-height:22px;
@@ -133,7 +133,7 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"] {
-	background:#363636;	
+	background:#47474794;	
 	margin-top:10px;
 	border:none;
 	  color: #dfdfdf;
